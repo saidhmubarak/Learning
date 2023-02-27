@@ -1,0 +1,8 @@
+html attribute basicaly modifiyes how an element behaves
+eg : <a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&list=LL&index=225">link goes here</a>
+here href is an attribute with value of a youtube link
+<a href="https://www.youtube.com/watch?v=G3e-cpL7ofc&list=LL&index=225" taget="_blink">link goes here</a>
+we can add another attribute after a space, here the we using the target attribute to determine wether the
+link will open on the current tab or new one
+
+the herf and target attribute only work on link element (anchor tag)
